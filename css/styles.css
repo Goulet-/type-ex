@@ -3,5 +3,28 @@
 
 /* Show Grid */
 .showgrid {
-	background: url("../img/grid-bg.png") repeat-y;
+	background-color: #D9E0DA;
 }
+
+html {
+	background-color: #D9E0DA;
+}
+body {
+	font-family: 'Calligraffitti', cursive;
+}
+
+p {
+	font-family: 'Lora', serif;
+}
+
+img {
+	width: 75%;
+}
+
+h1{
+	font-size: 4em;
+	text-align: center;
+	margin: 0%;
+	padding: 0%;
+}
+
